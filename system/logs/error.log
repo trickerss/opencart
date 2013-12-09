@@ -1,0 +1,180 @@
+2013-12-05 1:55:40 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_startup.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:40 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_engine_controller.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:40 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_engine_front.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:40 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_engine_loader.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:40 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_library_config.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:40 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_library_language.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:40 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_library_template.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:55 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_startup.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:55 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_engine_controller.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:55 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_engine_front.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:55 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_engine_loader.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:55 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_library_config.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:55 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_library_language.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-05 1:55:55 - PHP Warning:  fopen(/var/www/opencart/upload/system/modification/system_library_template.php): failed to open stream: Permission denied in /var/www/opencart/upload/system/engine/modification.php on line 101
+2013-12-05 1:55:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 103
+2013-12-05 1:55:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/opencart/upload/system/engine/modification.php on line 105
+2013-12-06 1:20:17 - PHP Notice:  Undefined variable: url in /var/www/opencart/catalog/view/theme/default/template/common/footer.tpl on line 2
+2013-12-06 1:20:31 - PHP Notice:  Undefined variable: url in /var/www/opencart/catalog/view/theme/default/template/common/footer.tpl on line 2
+2013-12-06 1:21:22 - PHP Notice:  Undefined variable: url in /var/www/opencart/catalog/controller/common/footer.php on line 73
+2013-12-06 1:23:00 - PHP Notice:  Undefined variable: url in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 22
+2013-12-06 3:22:06 - PHP Notice:  Error: Could not load language catalog/category! in /var/www/opencart/system/library/language.php on line 26
+2013-12-06 3:22:07 - PHP Notice:  Error: Could not load language catalog/category! in /var/www/opencart/system/library/language.php on line 26
+2013-12-06 3:22:07 - PHP Notice:  Error: Could not load language catalog/category! in /var/www/opencart/system/library/language.php on line 26
+2013-12-06 3:22:08 - PHP Notice:  Error: Could not load language catalog/category! in /var/www/opencart/system/library/language.php on line 26
+2013-12-06 3:22:08 - PHP Notice:  Error: Could not load language catalog/category! in /var/www/opencart/system/library/language.php on line 26
+2013-12-06 3:22:39 - PHP Notice:  Error: Could not load language catalog/category! in /var/www/opencart/system/library/language.php on line 26
+2013-12-06 4:03:41 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:41 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:41 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:41 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:43 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:43 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:43 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:43 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:43 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:43 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:43 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:43 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:44 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:44 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:03:44 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:03:44 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:04:35 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:04:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:04:35 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:04:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:04:57 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:04:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 21
+2013-12-06 4:04:57 - PHP Notice:  Undefined variable: categories in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 4:04:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 45
+2013-12-06 6:54:51 - PHP Notice:  Undefined variable: i in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 23
+2013-12-06 6:54:51 - PHP Notice:  Undefined variable: i in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 23
+2013-12-07 10:52:37 - PHP Notice:  Trying to get property of non-object in /var/www/opencart/catalog/controller/common/home.php on line 16
+2013-12-07 10:52:37 - PHP Notice:  Trying to get property of non-object in /var/www/opencart/catalog/controller/common/home.php on line 16
+2013-12-07 11:33:39 - PHP Notice:  Undefined variable: result in /var/www/opencart/catalog/controller/common/home.php on line 16
+2013-12-07 11:33:39 - PHP Notice:  Undefined index: image in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:34:21 - PHP Notice:  Undefined variable: result in /var/www/opencart/catalog/controller/common/home.php on line 16
+2013-12-07 11:34:21 - PHP Notice:  Undefined index: image in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:34:25 - PHP Notice:  Undefined variable: result in /var/www/opencart/catalog/controller/common/home.php on line 16
+2013-12-07 11:34:25 - PHP Notice:  Undefined index: image in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:34:37 - PHP Notice:  Undefined index: image in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:35:04 - PHP Notice:  Undefined index: image in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:36:41 - PHP Warning:  Missing argument 2 for ModelToolImage::resize(), called in /var/www/opencart/catalog/controller/common/home.php on line 23 and defined in /var/www/opencart/catalog/model/tool/image.php on line 3
+2013-12-07 11:36:41 - PHP Warning:  Missing argument 3 for ModelToolImage::resize(), called in /var/www/opencart/catalog/controller/common/home.php on line 23 and defined in /var/www/opencart/catalog/model/tool/image.php on line 3
+2013-12-07 11:36:41 - PHP Notice:  Undefined variable: width in /var/www/opencart/catalog/model/tool/image.php on line 11
+2013-12-07 11:36:41 - PHP Notice:  Undefined variable: height in /var/www/opencart/catalog/model/tool/image.php on line 11
+2013-12-07 11:36:41 - PHP Notice:  Undefined variable: width in /var/www/opencart/catalog/model/tool/image.php on line 28
+2013-12-07 11:36:41 - PHP Notice:  Undefined variable: width in /var/www/opencart/catalog/model/tool/image.php on line 30
+2013-12-07 11:36:41 - PHP Notice:  Undefined variable: height in /var/www/opencart/catalog/model/tool/image.php on line 30
+2013-12-07 11:36:41 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /var/www/opencart/system/library/image.php on line 86
+2013-12-07 11:36:41 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /var/www/opencart/system/library/image.php on line 94
+2013-12-07 11:36:41 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /var/www/opencart/system/library/image.php on line 97
+2013-12-07 11:36:41 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /var/www/opencart/system/library/image.php on line 99
+2013-12-07 11:48:32 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:48:32 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:48:32 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:48:32 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:50:06 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:50:06 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:50:06 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:50:06 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:50:27 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:50:27 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:50:27 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:50:27 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:52:01 - PHP Notice:  Undefined variable: results in /var/www/opencart/catalog/controller/common/home.php on line 23
+2013-12-07 11:52:01 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/controller/common/home.php on line 23
+2013-12-07 11:52:01 - PHP Notice:  Undefined variable: results in /var/www/opencart/catalog/controller/common/home.php on line 23
+2013-12-07 11:52:01 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/controller/common/home.php on line 23
+2013-12-07 11:52:01 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:52:01 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:52:01 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:52:01 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:53:33 - PHP Notice:  Undefined variable: products in /var/www/opencart/catalog/controller/common/home.php on line 34
+2013-12-07 11:53:33 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:53:33 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:53:33 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 40
+2013-12-07 11:53:33 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:53:33 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:53:51 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:53:51 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:53:51 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:53:51 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:54:08 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:54:08 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:54:08 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:54:08 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:54:19 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:54:19 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:54:19 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:54:19 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:54:37 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:54:37 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:54:37 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:54:37 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:54:45 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:54:45 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:54:45 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:54:45 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:55:20 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:55:20 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:55:20 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:55:20 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:55:39 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:55:39 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:55:39 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:55:39 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:56:13 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:56:13 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:56:24 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:56:24 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:56:51 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:56:51 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 11:57:11 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 37
+2013-12-07 11:57:11 - PHP Notice:  Undefined variable: per_product in /var/www/opencart/catalog/view/theme/default/template/common/home.tpl on line 38
+2013-12-07 13:13:52 - PHP Notice:  Undefined index: route in /var/www/opencart/catalog/controller/common/header.php on line 114
+2013-12-07 13:14:35 - PHP Notice:  Undefined index: route in /var/www/opencart/catalog/controller/common/header.php on line 70
+2013-12-08 19:31:55 - PHP Notice:  Undefined variable: url in /var/www/opencart/admin/controller/common/filemanager.php on line 129
+2013-12-08 19:32:09 - PHP Notice:  Undefined variable: url in /var/www/opencart/admin/controller/common/filemanager.php on line 129
+2013-12-08 19:32:14 - PHP Notice:  Undefined variable: url in /var/www/opencart/admin/controller/common/filemanager.php on line 129
+2013-12-08 19:40:16 - PHP Notice:  Undefined index: custom_field in /var/www/opencart/catalog/controller/checkout/guest.php on line 258
+2013-12-08 19:40:22 - PHP Notice:  Undefined index: custom_field in /var/www/opencart/catalog/controller/checkout/guest.php on line 258
+2013-12-08 19:40:34 - PHP Notice:  Undefined index: custom_field in /var/www/opencart/catalog/controller/checkout/guest.php on line 258
+2013-12-09 5:28:51 - PHP Notice:  Undefined variable: base in /var/www/gonatural/admin/controller/common/header.php on line 11
+2013-12-09 5:28:53 - PHP Notice:  Undefined variable: base in /var/www/gonatural/admin/controller/common/header.php on line 11
+2013-12-09 5:28:53 - PHP Notice:  Undefined variable: base in /var/www/gonatural/admin/controller/common/header.php on line 11
